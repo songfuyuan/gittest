@@ -15,3 +15,5 @@ group2
 fix bug1
 write back to master
 write back to origin bug
+
+bug 2
